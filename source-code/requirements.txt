@@ -1,6 +1,0 @@
-ipywidgets
-ipywebrtc
-sounddevice
-soundfile
-librosa
-playsound==1.2.2
