@@ -1,0 +1,36 @@
+2022-04-12 10:41:51.696887 - Loading data...
+2022-04-12 10:43:00.438665 - Loaded 2688 segments from E:\Kuliah\S2\Thesis\source code thesis\database\retraining_r\pd2_train_file.txt in 68.681 sec.
+2022-04-12 10:43:09.412163 - Loaded features for 96 files from E:\Kuliah\S2\Thesis\source code thesis\database\retraining_r\pd2_valid_file.txt in 8.949 sec.
+2022-04-12 10:43:09.413181 - Load data is start at 2022-04-12 10:41:51.696887
+2022-04-12 10:43:09.413181 - Process is finished at 2022-04-12 10:43:09.413181
+2022-04-12 10:44:58.410740 - Creating generators...
+2022-04-12 10:44:58.462153 - Creating model...
+2022-04-12 10:45:25.701239 - Training start at 2022-04-12 10:45:25.701239...
+2022-04-12 11:03:01.242518 - Epoch 1/15 - 1055.5s - loss 4.9332
+2022-04-12 11:04:43.095652 - VR 87.68% VFA 13.70% RPA 67.34% RCA 72.61% OA 71.36% BestOA 0.00%
+2022-04-12 11:05:04.633992 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rda_ftamodel-epoch1.h5
+2022-04-12 11:20:01.889559 - Epoch 2/15 - 897.3s - loss 4.6790
+2022-04-12 11:21:25.129716 - VR 95.61% VFA 13.48% RPA 75.98% RCA 82.74% OA 78.12% BestOA 71.36%
+2022-04-12 11:21:31.027856 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rda_ftamodel-epoch2.h5
+2022-04-12 11:36:24.156210 - Epoch 3/15 - 893.1s - loss 4.4219
+2022-04-12 11:37:49.972989 - VR 87.65% VFA 11.68% RPA 37.55% RCA 42.74% OA 50.18% BestOA 78.12%
+2022-04-12 11:52:45.639458 - Epoch 4/15 - 895.7s - loss 2.8115
+2022-04-12 11:54:09.039615 - VR 93.14% VFA 18.96% RPA 52.79% RCA 57.89% OA 59.99% BestOA 78.12%
+2022-04-12 12:09:00.894693 - Epoch 5/15 - 891.9s - loss 2.5140
+2022-04-12 12:10:27.324602 - VR 91.50% VFA 17.63% RPA 37.89% RCA 43.60% OA 49.36% BestOA 78.12%
+2022-04-12 12:25:18.180638 - Epoch 6/15 - 890.9s - loss 2.4225
+2022-04-12 12:26:41.565527 - VR 90.32% VFA 13.33% RPA 62.35% RCA 66.67% OA 68.58% BestOA 78.12%
+2022-04-12 12:42:46.179510 - Epoch 7/15 - 964.6s - loss 2.3528
+2022-04-12 12:44:13.867978 - VR 89.81% VFA 11.17% RPA 59.50% RCA 63.62% OA 67.01% BestOA 78.12%
+2022-04-12 12:59:28.672638 - Epoch 8/15 - 914.8s - loss 2.3094
+2022-04-12 13:00:57.779153 - VR 92.13% VFA 13.39% RPA 72.11% RCA 75.80% OA 75.66% BestOA 78.12%
+2022-04-12 13:16:03.738272 - Epoch 9/15 - 906.0s - loss 2.2672
+2022-04-12 13:17:27.856856 - VR 93.85% VFA 15.84% RPA 71.78% RCA 75.42% OA 74.83% BestOA 78.12%
+2022-04-12 13:32:44.004475 - Epoch 10/15 - 916.0s - loss 2.2313
+2022-04-12 13:34:21.522379 - VR 90.45% VFA 13.50% RPA 70.70% RCA 74.04% OA 74.61% BestOA 78.12%
+2022-04-12 13:49:36.576023 - Epoch 11/15 - 915.0s - loss 2.2012
+2022-04-12 13:51:12.295120 - VR 92.47% VFA 13.07% RPA 75.24% RCA 78.56% OA 78.12% BestOA 78.12%
+2022-04-12 14:06:05.138072 - Epoch 12/15 - 892.8s - loss 2.1714
+2022-04-12 14:07:32.315150 - VR 92.62% VFA 13.49% RPA 74.06% RCA 77.51% OA 77.11% BestOA 78.12%
+2022-04-12 14:07:32.591966 - Early stopping at 12 epoch with best OA 78.12%
+2022-04-12 14:07:32.592922 - Training end at 2022-04-12 14:07:32.592922...

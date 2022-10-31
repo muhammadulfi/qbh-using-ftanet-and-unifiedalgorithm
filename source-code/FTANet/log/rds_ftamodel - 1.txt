@@ -1,0 +1,156 @@
+2022-04-09 16:55:00.321731 - Loading data...
+2022-04-09 16:56:13.469966 - Loaded 2688 segments from E:\Kuliah\S2\Thesis\source code thesis\database\retraining_r\pd2_train_file.txt in 73.148 sec.
+2022-04-09 16:56:24.327776 - Loaded features for 96 files from E:\Kuliah\S2\Thesis\source code thesis\database\retraining_r\pd2_valid_file.txt in 10.858 sec.
+2022-04-09 16:56:24.328723 - Load data is start at 2022-04-09 16:55:00.321731
+2022-04-09 16:56:24.328723 - Process is finished at 2022-04-09 16:56:24.328723
+2022-04-09 16:57:35.533826 - Creating generators...
+2022-04-09 16:57:35.563858 - Creating model...
+2022-04-09 16:58:06.225991 - Training start at 2022-04-09 16:58:06.225991...
+2022-04-09 17:14:20.799957 - Epoch 1/50 - 974.6s - loss 5.5266
+2022-04-09 17:15:58.910242 - VR 78.27% VFA 33.63% RPA 20.80% RCA 41.07% OA 31.97% BestOA 0.00%
+2022-04-09 17:16:14.028489 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch1.h5
+2022-04-09 17:30:49.000861 - Epoch 2/50 - 875.0s - loss 5.4651
+2022-04-09 17:32:10.768686 - VR 81.23% VFA 23.24% RPA 35.94% RCA 47.69% OA 45.80% BestOA 31.97%
+2022-04-09 17:32:15.104608 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch2.h5
+2022-04-09 17:46:47.929809 - Epoch 3/50 - 872.8s - loss 5.4359
+2022-04-09 17:48:09.147341 - VR 83.77% VFA 20.00% RPA 41.36% RCA 50.07% OA 50.43% BestOA 45.80%
+2022-04-09 17:48:12.887018 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch3.h5
+2022-04-09 18:02:45.856329 - Epoch 4/50 - 873.0s - loss 5.4182
+2022-04-09 18:04:08.211038 - VR 85.89% VFA 18.27% RPA 44.91% RCA 53.81% OA 53.56% BestOA 50.43%
+2022-04-09 18:04:11.188835 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch4.h5
+2022-04-09 18:18:45.199646 - Epoch 5/50 - 874.0s - loss 5.4046
+2022-04-09 18:20:07.479016 - VR 87.17% VFA 16.87% RPA 45.46% RCA 53.80% OA 54.31% BestOA 53.56%
+2022-04-09 18:20:09.409268 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch5.h5
+2022-04-09 18:34:41.921758 - Epoch 6/50 - 872.5s - loss 5.3932
+2022-04-09 18:36:04.124329 - VR 88.10% VFA 15.82% RPA 47.86% RCA 55.81% OA 56.40% BestOA 54.31%
+2022-04-09 18:36:07.197822 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch6.h5
+2022-04-09 18:50:40.810998 - Epoch 7/50 - 873.6s - loss 5.3838
+2022-04-09 18:52:03.486681 - VR 88.72% VFA 14.80% RPA 48.09% RCA 55.78% OA 56.86% BestOA 56.40%
+2022-04-09 18:52:05.917126 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch7.h5
+2022-04-09 19:06:38.458023 - Epoch 8/50 - 872.5s - loss 5.3755
+2022-04-09 19:08:00.782375 - VR 89.16% VFA 13.89% RPA 47.99% RCA 55.89% OA 56.99% BestOA 56.86%
+2022-04-09 19:08:02.775804 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch8.h5
+2022-04-09 19:22:35.781801 - Epoch 9/50 - 873.0s - loss 5.3690
+2022-04-09 19:23:58.086666 - VR 89.78% VFA 13.59% RPA 52.42% RCA 59.29% OA 60.41% BestOA 56.99%
+2022-04-09 19:24:00.664794 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch9.h5
+2022-04-09 19:38:44.242026 - Epoch 10/50 - 883.6s - loss 5.3611
+2022-04-09 19:40:11.472412 - VR 90.02% VFA 12.99% RPA 52.33% RCA 59.38% OA 60.49% BestOA 60.41%
+2022-04-09 19:40:14.387160 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch10.h5
+2022-04-09 19:54:58.062748 - Epoch 11/50 - 883.7s - loss 5.3550
+2022-04-09 19:56:19.333798 - VR 90.29% VFA 12.08% RPA 53.46% RCA 59.99% OA 61.71% BestOA 60.49%
+2022-04-09 19:56:21.662289 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch11.h5
+2022-04-09 20:10:54.636674 - Epoch 12/50 - 873.0s - loss 5.3496
+2022-04-09 20:12:16.189785 - VR 90.60% VFA 11.75% RPA 54.94% RCA 61.67% OA 62.88% BestOA 61.71%
+2022-04-09 20:12:18.712461 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch12.h5
+2022-04-09 20:26:52.169165 - Epoch 13/50 - 873.5s - loss 5.3451
+2022-04-09 20:28:14.610935 - VR 90.82% VFA 11.59% RPA 56.19% RCA 62.59% OA 63.77% BestOA 62.88%
+2022-04-09 20:28:16.993815 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch13.h5
+2022-04-09 20:42:49.533248 - Epoch 14/50 - 872.5s - loss 5.3385
+2022-04-09 20:44:12.894295 - VR 90.83% VFA 10.79% RPA 56.21% RCA 62.57% OA 64.14% BestOA 63.77%
+2022-04-09 20:44:15.175383 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch14.h5
+2022-04-09 20:58:49.044434 - Epoch 15/50 - 873.9s - loss 5.3337
+2022-04-09 21:00:10.231403 - VR 91.04% VFA 10.60% RPA 57.11% RCA 63.31% OA 64.86% BestOA 64.14%
+2022-04-09 21:00:12.272936 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch15.h5
+2022-04-09 21:14:45.498394 - Epoch 16/50 - 873.2s - loss 5.3291
+2022-04-09 21:16:07.740820 - VR 91.15% VFA 10.55% RPA 57.61% RCA 63.76% OA 65.21% BestOA 64.86%
+2022-04-09 21:16:09.663494 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch16.h5
+2022-04-09 21:30:42.253197 - Epoch 17/50 - 872.6s - loss 5.3234
+2022-04-09 21:32:05.076738 - VR 91.33% VFA 10.48% RPA 59.53% RCA 65.53% OA 66.64% BestOA 65.21%
+2022-04-09 21:32:07.918887 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch17.h5
+2022-04-09 21:46:41.080912 - Epoch 18/50 - 873.2s - loss 5.3194
+2022-04-09 21:48:03.013217 - VR 91.46% VFA 10.26% RPA 59.62% RCA 65.91% OA 66.77% BestOA 66.64%
+2022-04-09 21:48:05.026136 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch18.h5
+2022-04-09 22:02:37.567040 - Epoch 19/50 - 872.5s - loss 5.3167
+2022-04-09 22:04:00.079105 - VR 91.59% VFA 10.14% RPA 59.69% RCA 65.75% OA 66.86% BestOA 66.77%
+2022-04-09 22:04:02.658005 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch19.h5
+2022-04-09 22:18:34.966729 - Epoch 20/50 - 872.3s - loss 5.3108
+2022-04-09 22:19:57.467088 - VR 91.66% VFA 10.03% RPA 60.75% RCA 66.59% OA 67.71% BestOA 66.86%
+2022-04-09 22:19:59.652268 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch20.h5
+2022-04-09 22:34:30.802196 - Epoch 21/50 - 871.1s - loss 5.3069
+2022-04-09 22:35:54.700438 - VR 91.76% VFA 10.02% RPA 60.65% RCA 66.49% OA 67.65% BestOA 67.71%
+2022-04-09 22:50:27.160904 - Epoch 22/50 - 872.5s - loss 5.3031
+2022-04-09 22:51:49.723833 - VR 91.77% VFA 9.75% RPA 62.71% RCA 68.80% OA 69.22% BestOA 67.71%
+2022-04-09 22:51:51.946021 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch22.h5
+2022-04-09 23:06:24.580842 - Epoch 23/50 - 872.6s - loss 5.2987
+2022-04-09 23:07:46.175967 - VR 91.94% VFA 9.79% RPA 63.44% RCA 69.19% OA 69.75% BestOA 69.22%
+2022-04-09 23:07:48.994288 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch23.h5
+2022-04-09 23:22:21.545195 - Epoch 24/50 - 872.6s - loss 5.2969
+2022-04-09 23:23:44.262273 - VR 92.00% VFA 9.66% RPA 64.05% RCA 69.60% OA 70.26% BestOA 69.75%
+2022-04-09 23:23:46.653997 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch24.h5
+2022-04-09 23:38:19.786978 - Epoch 25/50 - 873.1s - loss 5.2927
+2022-04-09 23:39:41.139626 - VR 92.10% VFA 9.63% RPA 64.55% RCA 70.13% OA 70.61% BestOA 70.26%
+2022-04-09 23:39:44.174018 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch25.h5
+2022-04-09 23:54:16.924898 - Epoch 26/50 - 872.7s - loss 5.2893
+2022-04-09 23:55:39.577837 - VR 92.17% VFA 9.51% RPA 65.56% RCA 71.17% OA 71.39% BestOA 70.61%
+2022-04-09 23:55:41.913440 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch26.h5
+2022-04-10 00:10:14.260518 - Epoch 27/50 - 872.3s - loss 5.2863
+2022-04-10 00:11:36.355660 - VR 92.04% VFA 9.15% RPA 66.53% RCA 72.07% OA 72.21% BestOA 71.39%
+2022-04-10 00:11:38.772900 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch27.h5
+2022-04-10 00:26:10.949321 - Epoch 28/50 - 872.2s - loss 5.2853
+2022-04-10 00:27:34.043514 - VR 92.11% VFA 9.12% RPA 66.99% RCA 72.44% OA 72.57% BestOA 72.21%
+2022-04-10 00:27:36.763852 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch28.h5
+2022-04-10 00:42:37.140751 - Epoch 29/50 - 900.4s - loss 5.2798
+2022-04-10 00:44:01.280541 - VR 92.24% VFA 9.11% RPA 67.64% RCA 72.98% OA 73.04% BestOA 72.57%
+2022-04-10 00:44:03.838290 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch29.h5
+2022-04-10 00:59:02.283191 - Epoch 30/50 - 898.4s - loss 5.2794
+2022-04-10 01:00:23.986702 - VR 92.27% VFA 9.03% RPA 68.15% RCA 73.36% OA 73.44% BestOA 73.04%
+2022-04-10 01:00:27.226214 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch30.h5
+2022-04-10 01:15:01.848694 - Epoch 31/50 - 874.6s - loss 5.2744
+2022-04-10 01:16:24.998905 - VR 92.35% VFA 8.97% RPA 68.43% RCA 73.77% OA 73.68% BestOA 73.44%
+2022-04-10 01:16:28.567359 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch31.h5
+2022-04-10 01:31:03.015642 - Epoch 32/50 - 874.4s - loss 5.2736
+2022-04-10 01:32:27.087286 - VR 92.35% VFA 8.86% RPA 68.79% RCA 74.16% OA 73.98% BestOA 73.68%
+2022-04-10 01:32:30.498620 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch32.h5
+2022-04-10 01:47:03.500459 - Epoch 33/50 - 873.0s - loss 5.2723
+2022-04-10 01:48:25.941307 - VR 92.50% VFA 8.99% RPA 69.11% RCA 74.42% OA 74.19% BestOA 73.98%
+2022-04-10 01:48:28.502274 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch33.h5
+2022-04-10 02:03:01.822233 - Epoch 34/50 - 873.3s - loss 5.2685
+2022-04-10 02:04:23.745361 - VR 92.51% VFA 8.91% RPA 69.37% RCA 74.64% OA 74.41% BestOA 74.19%
+2022-04-10 02:04:26.070560 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch34.h5
+2022-04-10 02:18:59.010421 - Epoch 35/50 - 872.9s - loss 5.2649
+2022-04-10 02:20:22.106932 - VR 92.69% VFA 9.03% RPA 69.42% RCA 74.97% OA 74.43% BestOA 74.41%
+2022-04-10 02:20:24.869523 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch35.h5
+2022-04-10 02:34:56.742240 - Epoch 36/50 - 871.9s - loss 5.2662
+2022-04-10 02:36:18.101126 - VR 92.62% VFA 8.85% RPA 69.88% RCA 75.17% OA 74.81% BestOA 74.43%
+2022-04-10 02:36:21.269168 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch36.h5
+2022-04-10 02:50:54.261092 - Epoch 37/50 - 873.0s - loss 5.2637
+2022-04-10 02:52:17.049762 - VR 92.42% VFA 8.52% RPA 69.78% RCA 75.08% OA 74.83% BestOA 74.81%
+2022-04-10 02:52:19.900820 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch37.h5
+2022-04-10 03:06:52.780430 - Epoch 38/50 - 872.9s - loss 5.2610
+2022-04-10 03:08:13.497277 - VR 92.34% VFA 8.33% RPA 70.22% RCA 75.38% OA 75.20% BestOA 74.83%
+2022-04-10 03:08:16.178202 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch38.h5
+2022-04-10 03:22:48.635347 - Epoch 39/50 - 872.5s - loss 5.2582
+2022-04-10 03:24:09.768153 - VR 92.63% VFA 8.40% RPA 70.02% RCA 75.29% OA 75.03% BestOA 75.20%
+2022-04-10 03:38:56.520718 - Epoch 40/50 - 886.8s - loss 5.2560
+2022-04-10 03:40:34.413012 - VR 92.62% VFA 8.53% RPA 70.26% RCA 75.50% OA 75.19% BestOA 75.20%
+2022-04-10 03:55:08.556887 - Epoch 41/50 - 874.1s - loss 5.2566
+2022-04-10 03:56:32.744134 - VR 92.61% VFA 8.45% RPA 70.37% RCA 75.66% OA 75.31% BestOA 75.20%
+2022-04-10 03:56:37.261110 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch41.h5
+2022-04-10 04:11:13.149024 - Epoch 42/50 - 875.9s - loss 5.2557
+2022-04-10 04:12:36.096984 - VR 92.57% VFA 8.37% RPA 70.42% RCA 75.66% OA 75.35% BestOA 75.31%
+2022-04-10 04:12:39.153210 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch42.h5
+2022-04-10 04:27:14.214207 - Epoch 43/50 - 875.1s - loss 5.2522
+2022-04-10 04:28:37.974797 - VR 92.80% VFA 8.46% RPA 70.45% RCA 75.86% OA 75.36% BestOA 75.35%
+2022-04-10 04:28:42.286301 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch43.h5
+2022-04-10 04:43:46.177293 - Epoch 44/50 - 903.9s - loss 5.2528
+2022-04-10 04:45:07.425699 - VR 92.63% VFA 8.27% RPA 70.32% RCA 75.70% OA 75.32% BestOA 75.36%
+2022-04-10 04:59:41.961806 - Epoch 45/50 - 874.5s - loss 5.2500
+2022-04-10 05:01:06.098271 - VR 92.89% VFA 8.45% RPA 70.36% RCA 75.83% OA 75.30% BestOA 75.36%
+2022-04-10 05:15:38.549597 - Epoch 46/50 - 872.5s - loss 5.2479
+2022-04-10 05:17:01.089360 - VR 92.83% VFA 8.42% RPA 70.46% RCA 75.85% OA 75.38% BestOA 75.36%
+2022-04-10 05:17:04.420989 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch46.h5
+2022-04-10 05:31:36.988288 - Epoch 47/50 - 872.6s - loss 5.2476
+2022-04-10 05:33:02.288282 - VR 92.82% VFA 8.34% RPA 70.69% RCA 75.94% OA 75.57% BestOA 75.38%
+2022-04-10 05:33:06.292118 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch47.h5
+2022-04-10 05:47:39.719766 - Epoch 48/50 - 873.4s - loss 5.2442
+2022-04-10 05:49:06.242250 - VR 92.81% VFA 7.96% RPA 70.63% RCA 75.99% OA 75.65% BestOA 75.57%
+2022-04-10 05:49:08.535525 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch48.h5
+2022-04-10 06:03:43.259664 - Epoch 49/50 - 874.7s - loss 5.2456
+2022-04-10 06:05:05.799783 - VR 92.77% VFA 8.16% RPA 70.11% RCA 75.51% OA 75.19% BestOA 75.65%
+2022-04-10 06:19:40.777926 - Epoch 50/50 - 875.0s - loss 5.2427
+2022-04-10 06:21:03.703549 - VR 92.91% VFA 7.83% RPA 70.64% RCA 76.12% OA 75.67% BestOA 75.65%
+2022-04-10 06:21:05.834360 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch50.h5
+2022-04-11 15:24:11.970234 - Epoch 51/65 - 1007.7s - loss 5.2122
+2022-04-11 15:25:53.184757 - VR 93.34% VFA 8.37% RPA 71.01% RCA 77.74% OA 75.80% BestOA 75.67%
+2022-04-11 15:25:57.600028 - Saved to E:\Kuliah\S2\Thesis\source code thesis\FTANet\model\retrain_r\rds_ftamodel-epoch51.h5
+2022-04-10 06:21:05.834360 - Training end at 2022-04-10 06:21:05.834360...
